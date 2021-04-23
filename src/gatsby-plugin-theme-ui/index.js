@@ -1,7 +1,7 @@
 export default {
   colors: {
     text: "#333",
-    headerBackground: "#607d8b",
+    headerBackground: "#0E4687",
     headerText: "white",
     paperBackgroundColor: "white",
     paperHoverBackgroundColor: "#fcfcfc",
